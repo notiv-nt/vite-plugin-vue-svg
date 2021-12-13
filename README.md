@@ -1,6 +1,8 @@
 <h1 align="center">vite-plugin-vue-svg</h1>
 <p align="center">Extend Vite with ability to use SVG files as Vue components.</p>
 
+> This is a fixed version of [vite-plugin-vue-svg](https://www.npmjs.com/package/vite-plugin-vue-svg)
+
 ### Features:
 - [SVGO](https://github.com/svg/svgo) optimization
 - Hot Module Replacement support
